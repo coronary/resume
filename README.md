@@ -5,7 +5,7 @@
 ---
  **Programming Languages**: Javascript, Python, Java
  
- **Tools/Frameworks**: Git, ReactJs, NodeJs, MongoDB, HTML/CSS, Unix Shell, Googling
+ **Tools/Frameworks**: Git, ReactJs, NodeJs, MongoDB, HTML/CSS, SCSS, Unix Shell, Googling
 
 #### Projects
 ---
