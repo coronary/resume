@@ -3,6 +3,8 @@
 
 #### Skills
 ---
+ **Programming Languages**: Javascript, Python, Java
+ **Tools/Frameworks**: Git, ReactJs, NodeJs, MongoDB, HTML/CSS, Unix Shell, Googling
 
 #### Projects
 ---
@@ -43,4 +45,4 @@ other related tools
 ates formatted html showing reservations 
 #### Education
 ---
- DePaul University, B.S Computer Science - June 2020
+##### DePaul University, B.S Computer Science - June 2020
