@@ -5,32 +5,21 @@
 
 -----
 
- **Programming Languages**: Javascript, Python, Java
+ **Programming Languages**: Typescript/Javascript, Python, Java
  
- **Tools/Frameworks**: Git, ReactJs, NodeJs, MongoDB, HTML/CSS, SCSS, Unix Shell, Googling
-
-
-## Projects ## 
-
----
-
-#### Cookbook.gg #### 
-- Actively co-authoring a website for guides and information about fighting games with a focus on Super Smash Brother's Melee using MERN Stack
-
-#### Software Engineering Final Project #### 
-- Created playable game in Java where player ship is chased by several pirateships.
-- Implemented 5 object-oriented design patterns: Observer, Strategy, Composite, Factory, Singleton.
-
-#### Distributed Systems Assignments #### 
-- Created iterative command line messaging application. Began as client to client and grew to a server which allowed connections from many clients at once to message back and forth
-- Used Python sockets, and threading module
-
-#### Python Wrapper for IGDB API #### 
-- Created a Python wrapper to interact with the IGDB API for retrieving information on individual video game titles
+ **Tools/Frameworks**: React Native, ReactJs, Formik, Git, HTML/CSS, SCSS, Unix Shell, Googling
 
 ## Work Experience ##
 
 ---
+
+#### Software Developer | _Branding Brand_ | September 2021 - Present_ ####
+- Use React, React Native, Typescript, and Javascript development to make world-class mobile applications
+- Partner with all teams and create clear lines of communication
+- Participate in tech spikes and feasibility studies to help flesh out new ideas and unknowns
+- Define testing requirements, and authoring unit and behavioral cases plus working alongside QA to ensure quality
+- Contribute using your awesome verbal and written communication skills
+- Acquire new skills, broaden existing skills, and contribute to others through knowledge sharing and retrospectives
 
 #### Innovation Lab Intern | _Alight Solutions_ | _June 2019 - August 2019_ ####
 - Developed workflow for creating Angular Libraries to be used in central UI design
@@ -46,8 +35,23 @@
 - Maintain Library computer rooms
 - Created service that consumes room reservation api data and generates formatted html showing reservations 
 
+## Projects ## 
+
+---
+
+#### Cookbook.gg #### 
+- co-authored a website for guides and information about fighting games with a focus on Super Smash Brother's Melee using MERN Stack
+
+#### Distributed Systems Assignments #### 
+- Created iterative command line messaging application. Began as client to client and grew to a server which allowed connections from many clients at once to message back and forth
+- Used Python sockets, and threading module
+
+#### Python Wrapper for IGDB API #### 
+- Created a Python wrapper to interact with the IGDB API for retrieving information on individual video game titles
+
+
 ## Education ##
 
 ---
 
-DePaul University, B.S Computer Science - June 2020
+DePaul University, B.S Computer Science
