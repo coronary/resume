@@ -1,5 +1,5 @@
-% Collin De Kalb
-## cjdekalb@gmail.com | github.com/coronary ## {#contacts}
+% Vera De Kalb
+## veradekalb@gmail.com | github.com/coronary ## {#contacts}
 
 ## Skills ##
 
