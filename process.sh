@@ -1,5 +1,5 @@
 div_end="<\/div>"
-pandoc -so res.md out.html
+pandoc -s res.md -o out.html
 sed -i '' "s/\(<h2 id=\(\"\w+\"\).+\)/<div class=\2>\n\1/" "out.html"
 sed -i '' "s/\(<div class.+\)/$div_end\1/" "out.html"
 sed -i '' "s/^$div_end\(.+contacts\)/\1/" "out.html"
