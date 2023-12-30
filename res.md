@@ -5,7 +5,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ---
 
 ::: {#title-block-header}
-# Vera De Kalb {#vera-de-kalb .title}
 :::
 
 ## veradekalb@gmail.com \| github.com/coronary {#contacts}
@@ -16,8 +15,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 **Currently Used Languages**: Typescript/Javascript
 
-**Tools/Frameworks**: React Native, ReactJs, Redux, Formik, Git,
-HTML/CSS, SCSS, Bash, Googling
+**Tools/Frameworks/Previously used Languages**: React Native, ReactJs, Redux, Formik, Python, SQL, MongoDB, Java, Git, HTML/CSS, SCSS, Bash, Googling
 
 ## Work Experience
 
