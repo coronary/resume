@@ -9,15 +9,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ## veradekalb@gmail.com \| github.com/coronary {#contacts}
 
-## Most Recently Read
-
-------------------------------------------------------------------------
-
-- *Wildseed* - Octavia Butler
-- *Polysecure* - Jessica Fern
-- *A Safe Girl to Love: Stories* - Casey Plett
-- *A Summer Beyond Your Reach* - Xia Jia
-
 ## Work Experience
 
 ------------------------------------------------------------------------
@@ -27,6 +18,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     - Point of contact for all Makerhub related inquiries not limited to: operating hours, services provided, material stock
     - Assisted students in the operation of equipment such as 3D printers (both PLA/ABS and Resin based machines), laser cutter, and vinyl cutter
     - Maintain and repair 3D printers
+    - Create and service asynchronus 3D print request system for students to submit files to be printed 24/7
 - Help curating technology related materials for the library such as video games and films
 - Research and implement digital screenage solution using provided Raspberry Pi's
 - Install and Replace hardware around the library including new desktop monitors and central phone charging stations
@@ -56,6 +48,16 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     ready solutions
 -   Developed a React Native Bridge, to integrate a native payment
     library, using Objective-C and Java
+
+## Most Recently Read
+
+------------------------------------------------------------------------
+
+- *Wildseed* - Octavia Butler
+- *Polysecure* - Jessica Fern
+- *A Safe Girl to Love: Stories* - Casey Plett
+- *A Summer Beyond Your Reach* - Xia Jia
+
 
 ## Education
 
