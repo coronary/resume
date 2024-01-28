@@ -9,19 +9,38 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ## veradekalb@gmail.com \| github.com/coronary {#contacts}
 
-## Skills
+## Most Recently Read
 
 ------------------------------------------------------------------------
 
-**Currently Used Languages**: Typescript/Javascript
-
-**Tools/Frameworks/Previously used Languages**: React Native, ReactJs, Redux, Formik, Python, SQL, MongoDB, Java, Git, HTML/CSS, SCSS, Bash, Googling
+- *Wildseed* - Octavia Butler
+- *Polysecure* - Jessica Fern
+- *A Safe Girl to Love: Stories* - Casey Plett
+- *A Summer Beyond Your Reach* - Xia Jia
 
 ## Work Experience
 
 ------------------------------------------------------------------------
 
-#### Software Developer \| *Branding Brand* \| *September 2021 - Present*
+#### Library Technical Assistant \| *DePaul University* \| *October 2017 - June 2020*
+- Put in charge of Lincoln Park Libary MakerSpace and performed duties autonomously or with another student worker
+    - Point of contact for all Makerhub related inquiries not limited to: operating hours, services provided, material stock
+    - Assisted students in the operation of equipment such as 3D printers (both PLA/ABS and Resin based machines), laser cutter, and vinyl cutter
+    - Maintain and repair 3D printers
+- Help curating technology related materials for the library such as video games and films
+- Research and implement digital screenage solution using provided Raspberry Pi's
+- Install and Replace hardware around the library including new desktop monitors and central phone charging stations
+- Host public events showing off resources at the library such as our 3D printers and our collection of Virtual Reality Games
+
+#### Library Assistant \| *Grant High School* \| *September 2013 - June 2016*
+- Assisted Head Librarian Paige Battle with daily library tasks
+    - General Circulation: Interact with students handling checking out and returning materials as well as fielding general questions and reshelving materials
+    - Coursework Circulation: Gather coursework materials from backroom collection and facilitatloaning them out on a per student basis
+- Collection Shifting: worked with other student librarians to shift bulk of the collection after librarians performed intensive weeding
+- While on shift completed college credit librarian courses administered by Mrs. Battle
+- Featured in posters 'advertising' the library
+
+#### Software Developer \| *Branding Brand* \| *September 2021 - January 2024*
 
 -   Used React, React Native, and Typescript development to make
     world-class mobile e-commerce experiences that are used by millions
@@ -37,40 +56,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
     ready solutions
 -   Developed a React Native Bridge, to integrate a native payment
     library, using Objective-C and Java
-
-#### Innovation Lab Intern \| *Alight Solutions* \| *June 2019 - August 2019*
-
--   Developed workflow for creating Angular Libraries to be used in
-    central UI design
--   Developed Angular proof of concept using a combination of pre-made
-    Material components and custom made Angular Libraries
--   Created API functions in ASP.NET using C# for interacting with a
-    DynamoDB instance
--   Reported at daily standup meetings on progress for individual
-    projects
--   Created AWS Lambda Script for scaling up or down the number of
-    active EC2 instances based on an SQS instance
-
-## Projects
-
-------------------------------------------------------------------------
-
-#### Cookbook.gg
-
--   co-authored a website for guides and information about fighting
-    games with a focus on Super Smash Brother's Melee using MERN Stack
-
-#### Resume Converter
-
--   Created a process for converting a resume written in markdown to
-    html and then to pdf to simplify resume update process
--   Utilizes Pandoc, wkhtmltopdf, and bash scripting to allow for easy
-    resume creation and styling
-
-#### Python Wrapper for IGDB API
-
--   Created a Python wrapper to interact with the IGDB API for
-    retrieving information on individual video game titles
 
 ## Education
 
