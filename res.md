@@ -9,19 +9,19 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ## veradekalb@gmail.com \| github.com/coronary {#contacts}
 
-## Skills
+## Hard Skills
 
 ------------------------------------------------------------------------
 
 **Currently Used Languages**: Typescript/Javascript
 
-**Tools/Frameworks/Previously used Languages**: React Native, ReactJs, Redux, Formik, Python, SQL, MongoDB, Java, Git, HTML/CSS, SCSS, Bash, Googling
+**Tools/Frameworks/Previously used Languages**: React Native, ReactJs, Redux, Formik, Python, SQL, MongoDB, ExpressJs, Java, Git, HTML/CSS, SCSS, Bash
 
 ## Work Experience
 
 ------------------------------------------------------------------------
 
-#### Software Developer \| *Branding Brand* \| *September 2021 - Present*
+#### Software Developer \| *Branding Brand* \| *September 2021 - January 2024*
 
 -   Used React, React Native, and Typescript development to make
     world-class mobile e-commerce experiences that are used by millions
@@ -71,6 +71,14 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 -   Created a Python wrapper to interact with the IGDB API for
     retrieving information on individual video game titles
+
+## Soft Skills
+
+------------------------------------------------------------------------
+
+-   Exceptional verbal and written communication skills
+    -   Can translate technical topics to people of varying levels of understanding
+-   Curious self starter with strong problem solving abilities
 
 ## Education
 
