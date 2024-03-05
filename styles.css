@@ -1,4 +1,5 @@
 header, #contacts {
         width:100%;
         text-align:center;
+	margin: 1em 0 1em 0 !important;
 }
