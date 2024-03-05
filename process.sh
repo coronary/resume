@@ -5,5 +5,5 @@ sed -i '' "s/\(<div class.+\)/$div_end\1/" "out.html"
 sed -i '' "s/^$div_end\(.+contacts\)/\1/" "out.html"
 sed -i '' "s/<\/body>/$div_end\n&/" "out.html"
 sed -i '' "s/<head>/&\n<link rel=\"stylesheet\" href=\"styles.css\">/" "out.html"
-current_date="$(date -u +%d-%m-%Y)"
-wkhtmltopdf --enable-local-file-access out.html "$current_date_resume.pdf"
+rm *_resume.pdf
+wkhtmltopdf --enable-local-file-access out.html $(date -u +%m-%d-%Y)_resume.pdf
