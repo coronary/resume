@@ -3,3 +3,7 @@ header, #contacts {
         text-align:center;
 	margin: 1em 0 1em 0 !important;
 }
+
+h1, h2, h3, h4, h5, h6, header {
+	margin: 1em 0 1em 0 !important;
+}
