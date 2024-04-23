@@ -1,9 +1,33 @@
-header, #contacts {
-        width:100%;
-        text-align:center;
-	margin: 1em 0 1em 0 !important;
+body {
+	font-family: 'Calibri', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, header {
-	margin: 1em 0 1em 0 !important;
+header, #contacts {
+	width:100%;
+	text-align:center;
+	font-size: medium;
+}
+
+#title-block-header {
+	margin: auto auto 1em;
+}
+
+h4 {
+	margin-bottom: 1em
+}
+
+h2#contacts {
+	margin: 1em auto 1em;
+}
+h2#skills ~ p {
+	line-height: 1.3;
+}
+
+ul li {
+	line-height: 1.03;
+	margin-bottom: 0.5cqb;
+}
+
+ul li:last-of-type {
+	margin-bottom: 0;
 }
