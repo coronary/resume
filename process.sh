@@ -1,6 +1,6 @@
 div_end="<\/div>"
 current_date=$(date -u +%m-%d-%Y)
-resume_filename="${current_date}_resume"
+resume_filename="${current_date}_resume.pdf"
 pandoc -s res.md -o out.html
 sed -i '' "s/\(<h2 id=\(\"\w+\"\).+\)/<div class=\2>\n\1/" "out.html"
 sed -i '' "s/\(<div class.+\)/$div_end\1/" "out.html"
