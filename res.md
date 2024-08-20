@@ -41,7 +41,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ------------------------------------------------------------------------
 
-Typescript, Javascript, Python, SQL, Java, Bash, HTML/CSS, React, React Native, Next.js, ExpressJs, AngularJs, Redux, Formik, Gleam, MongoDB, Git, Markdown, Front End, Responsiveness, Verbal and Written Communication Skills, Attention to Detail, Problem Solving Skills
+TypeScript, JavaScript, Node, Python, SQL, Java, Bash, HTML, CSS, React, React Native, Next.js, ExpressJs, AngularJs, Redux, Formik, Gleam, MongoDB, Git, Markdown, Front End, Responsiveness, Verbal and Written Communication Skills, Attention to Detail, Problem Solving Skills
 
 ## Education
 
