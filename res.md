@@ -41,7 +41,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ------------------------------------------------------------------------
 
-JavaScript/Typescript, Node, Python, SQL, Java, Bash, HTML, CSS, React, React Native, Next.js, ExpressJs, AngularJs, Redux, Formik, Gleam, MongoDB, Git, Markdown, Frontend Web Development, Collaborate within and Across Engineering Teams, Code Reviews, Strong Product Sense,
+JavaScript/TypeScript, Node, Python, SQL, Java, Bash, HTML, CSS, React, React Native, Jest, Next.js, ExpressJs, AngularJs, Redux, Formik, Gleam, MongoDB, Git, Markdown, Frontend Web Development, Component-Based UI Frameworks, Strong Written and Interpersonal Communication Skills
 
 ## Education
 
