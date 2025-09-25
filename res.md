@@ -7,13 +7,22 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ::: {#title-block-header}
 :::
 
-### <veradekalb@gmail.com> \| github.com/coronary \| +1-503-715-6280 {#contacts}
+### <veradekalb@gmail.com> \| +1-503-715-6280 {#contacts}
 
 ## Work Experience
 
 ------------------------------------------------------------------------
 
-#### Front Desk Receptionist \| *Vital Care* \| *October 2024 - Present*
+#### Litigation Assistant \| *Zwicker and Associates, P.C.* \| *June 2025 - Present*
+
+- File documents to courts in 3 states both electronically and physically by mail
+- Review legal documents, for accuracy, and suggest changes to attorneys before filing
+- Maintain office-wide calendar used by attorneys and litigation assistants alike
+  - Intake, organize, catalog, and add new hearings to the calendar daily as directed by staff attorneys
+  - Monitor calendar for upcoming hearings and delegate related accounts to staff for further processing
+  - Work with attorneys to avoid double booking and find appropriate coverage for hearings as needed
+
+#### Front Desk Receptionist \| *Vital Care* \| *October 2024 - May 2025*
 
 - Responds to inquiries and provides general company information to callers, and clients
 - Greets clients and gives instructions regarding sign in procedures
@@ -24,8 +33,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 #### Software Developer \| *Branding Brand* \| *September 2021 - January 2024*
 
-- Used React, React Native, and Typescript development to make
-    world-class mobile e-commerce experiences that are used by millions
+- Used React, React Native, and Typescript development to make world-class mobile e-commerce experiences that are used by millions
     each day
 - Served as the point of contact for client stakeholders throughout all phases of the development lifecycle
 - Constantly worked in tandem with multiple developers, designers, QA engineers and many others to plan, execute, and deliver production ready solutions
