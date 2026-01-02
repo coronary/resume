@@ -13,7 +13,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 ------------------------------------------------------------------------
 
-#### Litigation Assistant \| *Zwicker and Associates, P.C.* \| *June 2025 - Present*
+#### Litigation Assistant \| *Zwicker and Associates, P.C.* \| *June 2025 - November 2025*
 
 - File documents to courts in 3 states both electronically and physically by mail
 - Review legal documents, for accuracy, and suggest changes to attorneys before filing
